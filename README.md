@@ -1,11 +1,7 @@
-# SPARTANS_HACKS8.0
+# Drowsiness Detection System
 The G drive link below contains the presentation desk, video presentation, model and the data that has been used to train the AI.
 
 https://drive.google.com/drive/folders/14jBTddCsa6_qHcjO8KjS8K11wafrO-OV?usp=drive_link
-
-
-This is team SPARTANS and this repository consist of all the resources/submissions that we have used in HACKS 8.0
-Drowsiness Detection System and Virtual Bumper:
 
 Introduction-
 This GitHub repository houses the code and resources for a Drowsiness Detection System and Virtual Bumper for road vehicles. These advanced safety features aim to enhance driver alertness, reduce the risk of accidents, and prevent speed-related collisions. By implementing these technologies, we aim to improve road safety, minimize accidents, and reduce associated legal and insurance costs.
